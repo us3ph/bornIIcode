@@ -1,2 +1,2 @@
-<img src="https://raw.githubusercontent.com/bornIIcode/bornIIcode/refs/heads/main/gif.gif" style="width: 100%; height: 100%;">
+<img src="https://github.com/bornIIcode/bornIIcode/blob/main/gif%20.gif?raw=true" style="width: 100%; height: 100%;">
 
